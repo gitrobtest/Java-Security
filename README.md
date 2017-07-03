@@ -1,7 +1,7 @@
 # Java-Security
 Java Security Documents
 
-author：genxor
+##author：genxor
 
 Auditing and Bypassing Security Manager policies.docx
 
@@ -20,7 +20,7 @@ Struts2漏洞分析与研究之Ognl机制探讨.docx
 [百度安全中心博客-neobyte]Struts2 S2-020在Tomcat 8下的命令执行分析.docx
 
 
-author:iswin
+##author:iswin
 
 Android反序列化漏洞分析.pptx
 
@@ -47,7 +47,7 @@ Struts2-S2-029漏洞分析.docx
 XStream Deserializable Vulnerablity And Groovy CVE-2015-3253漏洞分析.docx
 
 
-author:kxlzx(空虚浪子心)
+##author:kxlzx(空虚浪子心)
 
 Attacking Java Web.pdf
 
@@ -94,7 +94,7 @@ Struts2远程代码执行漏洞分析（S2-013）.docx
 阿里巴巴和淘宝集团web安全标准.docx
 
 
-author:lupin
+##author:lupin
 
 ElasticSearch 远程代码执行漏洞分析（CVE-2015-1427）&高级利用方法.docx
 
@@ -109,7 +109,7 @@ Tomcat怎样防止跨站请求伪造(CSRF) .docx
 服务端模板注入：现代WEB远程代码执行（补充翻译和扩展）.docx
 
 
-author:nike
+##author:nike
 
 Fastjson介绍.pptx
 
@@ -126,7 +126,7 @@ WEB框架0day漏洞的发掘及分析经验分享.pdf
 阿里巴巴Java开发手册.pdf
 
 
-RASP
+##RASP
 
 instrumentation 功能介绍（javaagent).docx
 
@@ -151,19 +151,19 @@ Rasp技术介绍与实现（二）.docx
 深入字节码 -- 玩转 ASM-Bytecode.docx
 
 
-author:tang3
+##author:tang3
 
 Struts2方法调用远程代码执行漏洞分析.docx
 
 一种新的攻击方法——Java-Web-Expression-Language-Injection.docx
 
 
-author:xxlegend
+##author:xxlegend
 
 fastjson 远程反序列化poc的构造和分析.docx
 
 
-author:隐形人很忙
+##author:隐形人很忙
 
 common-collections中Java反序列化漏洞导致的RCE原理分析.docx
 
@@ -172,7 +172,7 @@ JBOSS的1099端口远程方法调用漏洞.docx
 XML External Entity (XXE) Injection(CVE-2016-3720).docx
 
 
-author:园长MM
+##author:园长MM
 
 攻击JavaWeb应用[1-8].pdf
 
@@ -180,17 +180,17 @@ author:园长MM
 
 
 
-authors:Stefano Di Paola, Minded Security Arshan Dabirsiaghi, Aspect Security
+##authors:Stefano Di Paola, Minded Security Arshan Dabirsiaghi, Aspect Security
 
 expressionlanguageinjection-120730054120-phpapp02.pdf
 
 
-author:DanAmodio 
+##author:DanAmodio 
 
 Remote Code with Expression Language Injection.pdf
 
 
-author:Moritz Bechler 
+##author:Moritz Bechler 
 
 Java Unmarshaller Security.pdf
 
